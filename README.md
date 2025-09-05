@@ -52,6 +52,7 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Cybersecurity%20Fundamentals-1E90FF?&style=for-the-badge&logo=OpenAI&logoColor=white" />
   </a>
 </div>
+
 ## Project
 - [**Basic Vulnerability Scanner**](https://github.com/DanielXarvy/Basic-vuln-scanner)  
   A Python-based tool that:  
