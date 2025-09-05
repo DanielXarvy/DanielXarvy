@@ -19,8 +19,25 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
 | Case Management with TheHive                  |
 | Scripting and Automation for Threat Mitigation |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛠️ Tools
+
+### 🔍 Network Analysis
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logoColor=white" />
+</div>
+
+### ⚡ Web Security
+<div>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nikto-000000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
+
+### 🔒 Encryption & Privacy
+<div>
+  <img src="https://img.shields.io/badge/-VeraCrypt-00BFFF?&style=for-the-badge&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -60,3 +77,4 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
   - Looks for sensitive files (`robots.txt`, `.git/`, `.env`, etc.)  
   - Saves scan results into a report (optional)  
   - Built for **educational and portfolio purposes**
+
