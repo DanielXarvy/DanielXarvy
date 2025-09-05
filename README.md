@@ -44,11 +44,11 @@ My journey in computer Engineering has led me to develop a passion for cybersecu
 
 ## Certifications
 <div>
-  <a href="https://github.com/DanielXarvy/DanielXarvy/blob/main/certificates/Cyber_Defence_ToolBox.pdf" target="_blank">
+  <a href="https://github.com/DanielXarvy/DanielXarvy/blob/main/Cyber_Defence_ToolBox.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Cyber%20Defence%20ToolBox-2E8B57?&style=for-the-badge&logo=shield&logoColor=white" />
   </a>
 
-  <a href="https://github.com/DanielXarvy/DanielXarvy/blob/main/certificates/Cybersecurity_Fundamentals.pdf" target="_blank">
+  <a href="https://github.com/DanielXarvy/DanielXarvy/blob/main/Cybersecurity_Fundamentals.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Cybersecurity%20Fundamentals-1E90FF?&style=for-the-badge&logo=shield&logoColor=white" />
   </a>
 </div>
